@@ -1,2 +1,3 @@
-An easy and useful fitness application with Turkish language support. 
-There are three types of workouts in the application and you can choose the workout you want and work out.
+An easy and useful fitness app with Turkish language support. 
+There are three types of workouts and you can choose the one you want and get information about it.
+There are also features that provide a list of gyms, their location and directions.
